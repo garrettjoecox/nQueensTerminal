@@ -1,0 +1,23 @@
+{
+  "name": "nqueens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colorslite": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettjoecox/nQueensTerminal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettjoecox/nQueensTerminal/issues"
+  },
+  "homepage": "https://github.com/garrettjoecox/nQueensTerminal#readme"
+}
